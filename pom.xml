@@ -16,5 +16,7 @@
     </properties>
     <modules>
         <module>spring-security-client</module>
+        <module>oAuth-authorization-server</module>
+        <module>Oauth-resource-server</module>
     </modules>
 </project>
